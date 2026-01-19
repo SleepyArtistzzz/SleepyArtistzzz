@@ -1,1 +1,1 @@
-<img src=ruta/de/pom.jpg alt="Descripción" width="500">
+<img src=ruta/de/pom.jpg alt="pom" width="500">
